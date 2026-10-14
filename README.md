@@ -91,6 +91,9 @@ Interactive date, region, category, and segment slicers
 
 The final dashboard features depend on the available dataset columns and completed Power BI implementation.
 
+image:-<img width="938" height="543" alt="Screenshot 2026-10-14 040912" src="https://github.com/user-attachments/assets/d83acd6d-e27b-4b1c-8a37-a3c411f5ffd5" />
+
+
 Conclusion
 
 The Superstore Business Intelligence & Sales Analysis project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
